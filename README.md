@@ -1,4 +1,4 @@
-# ReactChatApp <br />
+# Realtime Chat App <br />
 
 A real-time chat application built on React on client side and ExpressJS on server side. <br /><br />
 
